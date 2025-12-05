@@ -38,3 +38,6 @@ This project implements an image captioning model that generates natural languag
 
 ---
 
+### 🖼️ Captioned Image
+![Generated Caption Example](caption_output.png)
+

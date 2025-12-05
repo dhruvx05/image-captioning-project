@@ -1,4 +1,4 @@
-# 🖼️ Image Captioning with LSTM and Transformer
+# 🖼️ Image Captioning Project
 
 This project implements an image captioning model that generates natural language captions for images. It uses deep learning components built with PyTorch, including a CNN image encoder and two types of sequence decoders: **LSTM** and **Transformer**.
 

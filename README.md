@@ -23,8 +23,6 @@ This project implements an image captioning model that generates natural languag
 - **OpenCV** – Image manipulation
 - **NumPy** – General numerical operations
 
-> 🔸 `ultralytics` and YOLO are **not used** in this project.
-
 ---
 
 ## 📊 Evaluation Metrics
